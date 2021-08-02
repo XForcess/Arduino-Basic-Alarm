@@ -1,0 +1,10 @@
+NECESARIO:
+
+1- Arduino
+2- Modulo ultrasonido
+3- Buzzer activo o pasivo
+4- 6 cables macho a hembra
+
+OPCIONAL:
+
+5- una bateria o cargador si se quiere usar siempre
